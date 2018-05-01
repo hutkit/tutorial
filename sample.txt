@@ -1,1 +1,2 @@
 Git commands apes are using.
+add	変更をインデックスに登録する
